@@ -1,3 +1,9 @@
+# terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+# blackbox
 /.blackbox/pubring.gpg~
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
